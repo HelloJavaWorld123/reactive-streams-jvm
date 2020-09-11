@@ -1,10 +1,10 @@
 # Contributing to the Reactive Streams Project
 
-The Reactive Streams project welcomes contributions from anybody who wants to participate in moving this initiative forward. All code or documentation that is contributed will have to be covered by a waiver of all copyrights and other rights as detailed by the LICENSE and COPYING files at each repository root, the rationale for this is that the APIs defined by this project shall be freely implementable and usable by everyone.
+The Reactive Streams project welcomes contributions from anybody who wants to participate in moving this initiative forward. All code or documentation that is contributed will have to be covered by the MIT No Attribution (SPDX: MIT-0) license, the rationale for this is that the APIs defined by this project shall be freely implementable and usable by everyone.
 
-## Copyright Statement
+## Contributor License Agreement
 
-The aforementioned waiver of copyrights and other rights is represented by the addition of a line to the file [CopyrightWaivers.txt](https://github.com/reactive-streams/reactive-streams-jvm/blob/master/CopyrightWaivers.txt). For a pull request to be considered every contributor must have signed the copyright statement in this way; this may be included within that same pull request.
+The aforementioned waiver of copyrights and other rights is represented by the addition of a line to the file [ContributorLicenseAgreements.txt](https://github.com/reactive-streams/reactive-streams-jvm/blob/master/ContributorLicenseAgreements.txt). For a pull request to be considered every contributor must have signed the contributor license agreement; this may be included within that same pull request.
 
 ## Gatekeepers
 
@@ -28,7 +28,7 @@ Gatekeepers commit to the following:
 
 ## General Workflow
 
-1. Make sure you have signed the Copyright Statement, see above.
+1. Make sure you have signed the Contributor License Agreement, see above.
 2. Before starting to work on a change, make sure that:
     1. There is a ticket for your work in the project's issue tracker. If not, create it first. It can help accelerating the pull request acceptance process if the change is agreed upon beforehand within the ticket, but in some cases it may be preferable to discuss the necessity of the change in consideration of a concrete proposal.
     2. The ticket has been scheduled for the current milestone.
@@ -68,7 +68,7 @@ Example:
 
     * clarify how pull requests should look like
     * describe the acceptance process
-    * define the Copyright Statement signing process
+    * define the Contributor License Agreement signing process
 
 ## Performing Official Releases
 
